@@ -57,8 +57,8 @@ extra_dependencies = {
     ],
 
     "watch": [
-        "watchdog>=0.8,<0.9",
-        "watchdog_gevent==0.1",
+        "watchdog==0.10.*",
+        "watchdog_gevent==0.1.*",
     ],
 }
 
